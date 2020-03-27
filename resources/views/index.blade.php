@@ -26,7 +26,7 @@
 					  </div>
         			</div>
         			<div class="col-md-4 col-sm-6">
-        				<div class="image wow zoomIn" data-wow-delay="0.8s"><img src="static/img/3.jpg" alt="" class="resp-img"></div>
+        				<div class="image wow zoomIn" data-wow-delay="0.8s"><img src="img/3.jpg" alt="" class="resp-img"></div>
         			</div>
         		</div>
         	</div>
@@ -64,56 +64,56 @@
 						<div class="grid-sizer"></div>
 						  <div class="item wh-25 Aretes photo wow zoomIn" data-wow-delay="0.2s">
 							<div class="item-drid-size">
-								<img src="static/img/10.jpg" alt="" class="resp-img">
+								<img src="img/10.jpg" alt="" class="resp-img">
 								<a href="case_study.html" class="link-wrap item-hov"><span></span><span></span></a>
 							</div>
 						  </div>
 						  <div class="item wh-50 Complemtentos ux wow zoomIn" data-wow-delay="0.4s">
 							<div class="item-drid-size">
-								<img src="static/img/11.jpg" alt="" class="resp-img">
+								<img src="img/11.jpg" alt="" class="resp-img">
 								<a href="case_study.html" class="link-wrap item-hov"><span></span><span></span></a>
 							</div>
 						  </div>
 						  <div class="item wh-50 Cabello ux wow zoomIn" data-wow-delay="0.4s">
 							<div class="item-drid-size">
-								<img src="static/img/14.jpg" alt="" class="resp-img">
+								<img src="img/14.jpg" alt="" class="resp-img">
 								<a href="case_study.html" class="link-wrap item-hov"><span></span><span></span></a>
 							</div>
 						  </div>
 						  <div class="item wh-25 Pulceras ux wow zoomIn" data-wow-delay="0.6s">
 							<div class="item-drid-size">
-								<img src="static/img/13.jpg" alt="" class="resp-img">
+								<img src="img/13.jpg" alt="" class="resp-img">
 								<a href="case_study.html" class="link-wrap item-hov"><span></span><span></span></a>
 							</div>
 						  </div>
 						  <div class="item wh-25 Collares graphic wow zoomIn" data-wow-delay="0.8s">
 							<div class="item-drid-size">
-								<img src="static/img/7.jpg" alt="" class="resp-img">
+								<img src="img/7.jpg" alt="" class="resp-img">
 								<a href="case_study.html" class="link-wrap item-hov"><span></span><span></span></a>
 							</div>
 						  </div>
 						  <div class="load-item">
 							  <div class="item wh-25 Aretes photo wow zoomIn" data-wow-delay="0.2s">
 								<div class="item-drid-size">
-									<img src="static/img/10.jpg" alt="" class="resp-img">
+									<img src="img/10.jpg" alt="" class="resp-img">
 									<a href="case_study.html" class="link-wrap item-hov"><span></span><span></span></a>
 								</div>
 							  </div>
 							  <div class="item wh-50 Cabello ux wow zoomIn" data-wow-delay="0.4s">
 								<div class="item-drid-size">
-									<img src="static/img/14.jpg" alt="" class="resp-img">
+									<img src="img/14.jpg" alt="" class="resp-img">
 									<a href="case_study.html" class="link-wrap item-hov"><span></span><span></span></a>
 								</div>
 							  </div>
 							  <div class="item wh-25 Pulseras ux wow zoomIn" data-wow-delay="0.6s">
 								<div class="item-drid-size">
-									<img src="static/img/13.jpg" alt="" class="resp-img">
+									<img src="img/13.jpg" alt="" class="resp-img">
 									<a href="case_study.html" class="link-wrap item-hov"><span></span><span></span></a>
 								</div>
 							  </div>
 							  <div class="item wh-25 Collares graphic wow zoomIn" data-wow-delay="0.8s">
 								<div class="item-drid-size">
-									<img src="static/img/7.jpg" alt="" class="resp-img">
+									<img src="img/7.jpg" alt="" class="resp-img">
 									<a href="case_study.html" class="link-wrap item-hov"><span></span><span></span></a>
 								</div>
 							  </div>
@@ -134,7 +134,7 @@
 		
 
 		 <!-- Seccion Banner 1 inicia-->
-		 <section class="banner1" style="background-image: url('static/img/2.jpeg');">
+		 <section class="banner1" style="background-image: url('img/2.jpeg');">
 		 <div class="container">
 			 <div class="row">
 				 <div class="col-12 col-md-12 col-lg-12">
@@ -184,7 +184,7 @@
 					</div>
 					<div class="col-md-4 col-sm-12 col-xs-12">
 						<div class="service-item item-hov wow zoomIn" data-wow-delay="0.2s">
-							<img src="static/img/service_icon_1.png" alt="">
+							<img src="img/service_icon_1.png" alt="">
 						      <div class="title">
 						      	 <h4 class="h4">Collares</h4>
 						      </div>
@@ -196,7 +196,7 @@
 					</div>
 					<div class="col-md-4 col-sm-12 col-xs-12">
 						<div class="service-item item-hov wow zoomIn" data-wow-delay="0.2s">
-							<img src="static/img/service_icon_1.png" alt="">
+							<img src="img/service_icon_1.png" alt="">
 						      <div class="title">
 						      	 <h4 class="h4">Pulseras</h4>
 						      </div>
@@ -233,7 +233,7 @@
 		   <!-- Redes sociales (facebook) inicia -->
 
 		   <section class="section padd-sm">
-			<div class="bg fix" style="background-image:url(static/img/9.jpg)"></div>
+			<div class="bg fix" style="background-image:url(img/9.jpg)"></div>
 		   <div class="container">
 			  <div class="folow-item col-white wow zoomIn" data-wow-delay="0.4s">
 					<img src="static/img/8.jpg" alt="">
@@ -290,7 +290,7 @@
 			  <div class="swiper-slide">
 				<div class="padd-wrap wow zoomIn" data-wow-delay="0.2s">
 				 <div class="team-item item-hov">
-					<img src="static/img/7.jpg" alt="" class="resp-img">
+					<img src="img/7.jpg" alt="" class="resp-img">
 					<div class="team-desc item-layer">
 					  <div class="vertical-align w-full">
 						<h4 class="h4"><a href="#">Martha Jones</a></h4>
@@ -366,7 +366,7 @@
 				  <div class="row">
 					  <div class="col-md-6 ml-auto"><!-- izquierda -->
 						  <div class="container-fluid">
-							  <img src="static/img/13.jpg" alt="" class="resp-img">
+							  <img src="img/13.jpg" alt="" class="resp-img">
 						  </div>
 	
 					  </div>
