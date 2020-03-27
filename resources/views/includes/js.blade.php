@@ -3,7 +3,7 @@
 
 		<script src="https://cdnjs.cloudflare.com/ajax/libs/Swiper/2.7.6/idangerous.swiper.min.js"></script>  
         <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/2.2.2/isotope.pkgd.min.js"></script>
-		<script src="{% static 'js/bootstrap.min.js' %}"></script>
+		<script src="public/js/bootstrap.min.js" type="text/javascript"></script>
 		<!--<script src="{% static 'js/jquery.scrollify.min.js' %}"></script> -->
-        <script src="{% static 'js/wow.min.js' %}"></script>
-		<script src="{% static 'js/all.js' %}"></script>
+        <script src="public/js/wow.min.js" type="text/javascript"></script>
+		<script src="public/js/all.js" type="text/javascript"></script>
