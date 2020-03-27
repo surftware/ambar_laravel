@@ -1,4 +1,5 @@
-@extends('layout.base')
+@extends ("layouts.index")
+@section("contenido")
 		 <!-- Seccion conocenos inicia -->
          <section class="section section-first">
         	<div class="container">
@@ -145,7 +146,6 @@
 						 </div>
 					 </div>
 				 </div>
-
 			 </div>
 		 </div>
 		 </section>
@@ -392,6 +392,4 @@
 	 
   </div>
 
-  
-  
-{% endblock content %}	
+  @endsection
