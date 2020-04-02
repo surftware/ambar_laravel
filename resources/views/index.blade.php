@@ -1,5 +1,65 @@
 @extends ("layouts.index")
 @section("contenido")
+  <div class="loader">
+            <div class="load-title">
+                <img src="{% static 'img/logo_ambar.png' %}" alt="">
+                <div class="load-circle"></div>
+            </div>
+        </div>
+        <div class="top-baner bottom-margin swiper-anime slide-arow poind-closest">
+	     <div class="swiper-container top-slider" data-autoplay="0" data-loop="0" data-speed="600" data-center="0" data-slides-per-view="1">
+			<div class="swiper-wrapper">
+			   <div class="swiper-slide first-slide" data-val="0">
+				  <div class="block-bg">
+				      <div class="bg-wrap">
+					     <div class="bg" style="background-image:url( 'img/10.jpg')"></div>
+					       <div class="white-mobile-layer"></div>
+					  </div>
+					  <div class="title-style-1 vertical-align">
+					   <div class="sub-title">
+					   	  <h5 class="h5">Intro</h5>
+					   </div>
+					  	<h1 class="h1">Gone<br> are the days</h1>
+					  </div>
+				  </div>
+			   </div>
+			   <div class="swiper-slide" data-val="1">
+				  <div class="block-bg">
+					  <div class="bg-wrap">
+					     <div class="bg" style="background-image:url('/img/11.jpg')"></div>
+					       <div class="white-mobile-layer"></div>
+					  </div>
+					  <div class="title-style-1 vertical-align">
+					   <div class="sub-title">
+					   	  <h5 class="h5">Intro</h5>
+					   </div>
+					  	<h2 class="h1">True<br> color in you</h2>
+					  </div>
+				  </div>
+			   </div>
+			   <div class="swiper-slide" data-val="2">
+				  <div class="block-bg">
+					  <div class="bg-wrap">
+					     <div class="bg" style="background-image:url('/img/12.jpg')"></div>
+					       <div class="white-mobile-layer"></div>
+					  </div>
+					  <div class="title-style-1 vertical-align">
+					   <div class="sub-title">
+					   	  <h5 class="h5">Intro</h5>
+					   </div>
+					  	<h2 class="h1">Beauty <br>in the details</h2>
+					  </div>
+				  </div>
+			   </div>
+			</div>
+			<div class="pagination hidden"></div>
+		 </div>
+         <div class="slider-number"><span></span>/<b></b></div>	
+       </div>
+        <div class="content"> 
+        
+        </div> 
+		
 		 <!-- Seccion conocenos inicia -->
          <section class="section section-first">
         	<div class="container">
