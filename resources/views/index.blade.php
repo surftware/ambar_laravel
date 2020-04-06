@@ -109,12 +109,11 @@
       		   	  	     <div class="drop-filter"><span>All </span><i class="icon-down-open-mini"></i></div>
        		   	  	       <ul class="filter-mob-list">
 							 <li class="active" data-filter="*">All</li>
-							 <li data-filter=".Aretes">Aretes</li>
-							 <li data-filter=".Collares">Collares</li>
-							 <li data-filter=".Pulseras">Pulseras</li>
-							 <li data-filter=".Cabello">Cabello</li>
-							 <li data-filter=".Anillos">Anillos</li>
-							 <li data-filter=".Complementos">Complementos</li>
+							 <li data-filter=".branding">Branding</li>
+							 <li data-filter=".ux">UX</li>
+							 <li data-filter=".web">WEB DESIGN</li>
+							 <li data-filter=".graphic">GRAPHIC DESIGN</li>
+							 <li data-filter=".photo">PHOTOGRAPHY</li>
         		   	  	   </ul>
         		   	  </div>
         		   </div>
@@ -122,58 +121,52 @@
 				<div class="row">
 					<div class="izotope-container">
 						<div class="grid-sizer"></div>
-						  <div class="item wh-25 Aretes photo wow zoomIn" data-wow-delay="0.2s">
+						  <div class="item wh-25 branding photo wow zoomIn" data-wow-delay="0.2s">
 							<div class="item-drid-size">
-								<img src="img/10.jpg" alt="" class="resp-img">
+								<img src="img/portfolio_item_2.jpg" alt="" class="resp-img">
 								<a href="case_study.html" class="link-wrap item-hov"><span></span><span></span></a>
 							</div>
 						  </div>
-						  <div class="item wh-50 Complemtentos ux wow zoomIn" data-wow-delay="0.4s">
+						  <div class="item wh-50 graphic ux wow zoomIn" data-wow-delay="0.4s">
 							<div class="item-drid-size">
-								<img src="img/11.jpg" alt="" class="resp-img">
+								<img src="img/portfolio_item_1.jpg" alt="" class="resp-img">
 								<a href="case_study.html" class="link-wrap item-hov"><span></span><span></span></a>
 							</div>
 						  </div>
-						  <div class="item wh-50 Cabello ux wow zoomIn" data-wow-delay="0.4s">
+						  <div class="item wh-25 web ux wow zoomIn" data-wow-delay="0.6s">
 							<div class="item-drid-size">
-								<img src="img/14.jpg" alt="" class="resp-img">
+								<img src="img/portfolio_item_3.jpg" alt="" class="resp-img">
 								<a href="case_study.html" class="link-wrap item-hov"><span></span><span></span></a>
 							</div>
 						  </div>
-						  <div class="item wh-25 Pulceras ux wow zoomIn" data-wow-delay="0.6s">
+						  <div class="item wh-25 ux graphic wow zoomIn" data-wow-delay="0.8s">
 							<div class="item-drid-size">
-								<img src="img/13.jpg" alt="" class="resp-img">
-								<a href="case_study.html" class="link-wrap item-hov"><span></span><span></span></a>
-							</div>
-						  </div>
-						  <div class="item wh-25 Collares graphic wow zoomIn" data-wow-delay="0.8s">
-							<div class="item-drid-size">
-								<img src="img/7.jpg" alt="" class="resp-img">
+								<img src="img/portfolio_item_4.jpg" alt="" class="resp-img">
 								<a href="case_study.html" class="link-wrap item-hov"><span></span><span></span></a>
 							</div>
 						  </div>
 						  <div class="load-item">
-							  <div class="item wh-25 Aretes photo wow zoomIn" data-wow-delay="0.2s">
+							  <div class="item wh-25 branding photo wow zoomIn" data-wow-delay="0.2s">
 								<div class="item-drid-size">
-									<img src="img/10.jpg" alt="" class="resp-img">
+									<img src="img/portfolio_item_5.jpg" alt="" class="resp-img">
 									<a href="case_study.html" class="link-wrap item-hov"><span></span><span></span></a>
 								</div>
 							  </div>
-							  <div class="item wh-50 Cabello ux wow zoomIn" data-wow-delay="0.4s">
+							  <div class="item wh-50 graphic ux wow zoomIn" data-wow-delay="0.4s">
 								<div class="item-drid-size">
-									<img src="img/14.jpg" alt="" class="resp-img">
+									<img src="img/portfolio_item_6.jpg" alt="" class="resp-img">
 									<a href="case_study.html" class="link-wrap item-hov"><span></span><span></span></a>
 								</div>
 							  </div>
-							  <div class="item wh-25 Pulseras ux wow zoomIn" data-wow-delay="0.6s">
+							  <div class="item wh-25 web ux wow zoomIn" data-wow-delay="0.6s">
 								<div class="item-drid-size">
-									<img src="img/13.jpg" alt="" class="resp-img">
+									<img src="img/portfolio_item_7.jpg" alt="" class="resp-img">
 									<a href="case_study.html" class="link-wrap item-hov"><span></span><span></span></a>
 								</div>
 							  </div>
-							  <div class="item wh-25 Collares graphic wow zoomIn" data-wow-delay="0.8s">
+							  <div class="item wh-25 ux graphic wow zoomIn" data-wow-delay="0.8s">
 								<div class="item-drid-size">
-									<img src="img/7.jpg" alt="" class="resp-img">
+									<img src="img/portfolio_item_8.jpg" alt="" class="resp-img">
 									<a href="case_study.html" class="link-wrap item-hov"><span></span><span></span></a>
 								</div>
 							  </div>
@@ -189,7 +182,7 @@
 					</div>
 				</div>
 			 </div>
-		 </section>
+		 </section> 
 		 <!-- Seccion categorias finaliza-->
 		
 
@@ -434,7 +427,7 @@
 							  <p><a href="#" class="font-type">ÁMBAR</a> está dedicado a las personas que quieren resaltar su esencia a través de los accesorios. </p>
 						  </div>
 						  																																																												
-								<div class="mt 5 pt 5">
+								<div class="mt-5 pt-5">
 								<i class="fab fa-facebook-square"></i>
 								<i class="fab fa-twitter-square"></i>
 								<i class="fab fa-xbox"></i>

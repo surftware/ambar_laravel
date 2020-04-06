@@ -919,6 +919,15 @@ article h4 {font-size: 24px; font-weight: 500; color: #272b2b; text-align: cente
 	.adress-list li a:hover {color: #272b2b;}
 }
 
+/* 11 - AGREGADOS */
+/*-------------------------------------------------------------------------------------------------------------------------------*/
+	.banner1 {
+		height:100px;
+		background-position: center;
+		background-size: 100% 100%;
+		background-repeat: no-repeat;
+			  }	
+
 .conteiner-fluid1{
 	width: 100%;
 	padding-right: 15px;
