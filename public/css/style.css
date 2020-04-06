@@ -918,3 +918,12 @@ article h4 {font-size: 24px; font-weight: 500; color: #272b2b; text-align: cente
 	.swiper-anime-3 .swiper-slide.active .image-front {opacity: 1; bottom: 0px;}
 	.adress-list li a:hover {color: #272b2b;}
 }
+
+.conteiner-fluid1{
+	width: 100%;
+	padding-right: 15px;
+	padding-left: 0px;
+	margin-right: auto;
+	margin-left: auto;
+
+}

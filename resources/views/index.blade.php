@@ -415,38 +415,42 @@
   <div class="modal fade" id="modal1" tabindex="-1" role="dialog" >
 	<div class="modal-dialog modal-lg" role="document">
 		<div class="modal-content">
-		  <div class="modal-header">
-			<h5 class="modal-title" id="modal1"></h5>
-			<button type="button" class="close" data-dismiss="modal" aria-label="Close">
-			  <span aria-hidden="true">&times;</span>
-			</button>
-		  </div>
+		 
 		  <div class="modal-body">
 			  <div class="container-fluid">
 				  <div class="row">
 					  <div class="col-md-6 ml-auto"><!-- izquierda -->
-						  <div class="container-fluid">
+						  <div class="container-fluid1">
 							  <img src="img/13.jpg" alt="" class="resp-img">
 						  </div>
 	
 					  </div>
 					  
-					  <div class="col-md-6 ml-|   nh mbnhyauto"><!-- derecha -->
+					  <div class="col-md-6 ml-auto"><!-- derecha -->
 						  <div class="sub-title">
 							  <h5 class="h5">Productos!</h5>
 						   </div>
 						  <div class="simple-text lg">
 							  <p><a href="#" class="font-type">ÁMBAR</a> está dedicado a las personas que quieren resaltar su esencia a través de los accesorios. </p>
-						  </div  </div>
+						  </div>
+						  																																																												
+								<div class="mt 5 pt 5">
+								<i class="fab fa-facebook-square"></i>
+								<i class="fab fa-twitter-square"></i>
+								<i class="fab fa-xbox"></i>
+								</div>
+								<div>
+						  		<button type="button" class="btn btn-secondary" data-dismiss="modal">Whatsapp/Contacto</button>
+								<button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+								</div>  
+							
+						  </div>
 					  </div>
 					  
 					</div>
 			  </div>
 			</div>
-		  <div class="modal-footer">
-			<button type="button" class="btn btn-secondary" data-dismiss="modal">Whatsapp/Contacto</button>
-			<button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
-		  </div>
+		  
 		</div>
 	  </div>
 	 

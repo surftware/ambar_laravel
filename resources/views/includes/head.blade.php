@@ -8,6 +8,7 @@
 		 	<link rel="stylesheet" type="text/css" href="css/fontello.css"/>
             <link rel="stylesheet" type="text/css" href="css/animate.css" />
             <link rel="stylesheet" type="text/css" href="css/idangerous.swiper.css"/>   
-            <link rel="stylesheet" type="text/css" href="css/style.css"/>     
+            <link rel="stylesheet" type="text/css" href="css/style.css"/> 
+            <link href="fontawesome/css/all.css" rel="stylesheet"> <!--load all styles -->    
             
              
