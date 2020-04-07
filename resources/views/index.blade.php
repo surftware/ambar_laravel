@@ -187,7 +187,7 @@
 		
 
 		 <!-- Seccion Banner 1 inicia-->
-		 <section class="banner1" style="background-image: url('img/2.jpeg');">
+		 <section class="banner1" style="background-image: url('img/22.png');">
 		 <div class="container">
 			 <div class="row">
 				 <div class="col-12 col-md-12 col-lg-12">
