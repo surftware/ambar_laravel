@@ -1,7 +1,7 @@
 <section class="section section-bg padd-xs">
     <div class="container">
           <a href="index.html" class="footer-logo">
-             <img src="static/img/logo_ambar.png" alt="">
+             <img src="img/logo_ambar.png" alt="">
           </a> 
           <div class="folow-icon">
               <a href="#"><i class="icon-facebook"></i></a>
