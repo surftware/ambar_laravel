@@ -185,24 +185,30 @@
 			 </div>
 		 </section>
 		 <!-- Seccion categorias finaliza-->
-		
+	
 
 		 <!-- Seccion Banner 1 inicia-->
-		 <section class="banner1" style="background-image: url('img/22.png');">
-		 <div class="container">
-			 <div class="row">
-				 <div class="col-12 col-md-12 col-lg-12">
-					 <div class="call-to-action-content text-center text-md-left appear-animation"
-						 data-appear-animation="fadeInLeftShorter">
-						 <h2 class="font-weight-semibold">Banner CTA Comprar.</h2>
-						 <div class="col-lg-8">
-							 <h4 class="font-weight-light mb-0">bla bla bla</h4>
-						 </div>
-					 </div>
-				 </div>
-			 </div>
-		 </div>
-		 </section>
+	<section class="section padd-sm">
+		<div class="bg fix" style="background-image:url(img/ban1.jpeg)"></div>
+		   <div class="container">
+			  <div class="folow-item letras_b wow zoomIn" data-wow-delay="0.4s">
+				
+						<div class="folow-info">
+							<b>Banner CTA Comprar</b>
+							<span>posts</span>
+						</div>
+						<div class="folow-info">
+							<b>Banner CTA Comprar</b>
+							<span>followers</span>
+						</div>
+						<div class="folow-info">
+							<b>Banner CTA Comprar</b>
+							<span>following</span>
+						</div>
+						
+			  </div>
+		   </div>
+	 </section>
 		  <!-- Seccion Banner 1 finaliza-->
 
 		  <!-- Seccion como comprar inicia--> 
@@ -226,7 +232,7 @@
 				<div class="row">
 					<div class="col-md-4 col-sm-12 col-xs-12">
 						<div class="service-item item-hov wow zoomIn" data-wow-delay="0.2s">
-							<img src="static/img/service_icon_1.png" alt="">
+							<img src="img/service_icon_1.png" alt="">
 						      <div class="title">
 						      	 <h4 class="h4">Aretes</h4>
 						      </div>
@@ -286,8 +292,8 @@
 		  
 		   <!-- Redes sociales (facebook) inicia -->
 
-		   <section class="section padd-sm">
-			<div class="bg fix" style="background-image:url(img/9.jpg)"></div>
+	<section class="section padd-sm">
+		<div class="bg fix" style="background-image:url(img/9.jpg)"></div>
 		   <div class="container">
 			  <div class="folow-item col-white wow zoomIn" data-wow-delay="0.4s">
 					<img src="static/img/8.jpg" alt="">
@@ -313,7 +319,7 @@
 						<a href="#" class="link-type-2"><span>follow Instagram</span></a>
 			  </div>
 		   </div>
-	   </section>
+	 </section>
 
 	   <!-- Redes sociales (facebook) finaliza -->
 
