@@ -270,24 +270,29 @@
 			</div>
 		 </section>
 		  <!-- Seccion como comprar finaliza--> 
-
+		
 		  <!-- Seccion Banner 2 inicia-->
-		  <section class="banner1" style="background-color:#FF93C1 ;">
-			<div class="container">
-				<div class="row">
-					<div class="col-12 col-md-12 col-lg-12">
-						<div class="call-to-action-content text-center text-md-left appear-animation"
-							data-appear-animation="fadeInLeftShorter">
-							<h2 class="font-weight-semibold">Banner CTA Comprar.</h2>
-							<div class="col-lg-8">
-								<h4 class="font-weight-light mb-0">bla bla bla</h4>
-							</div>
+		<section class="section padd-sm">
+		<section class="banner1" style="background-color:#FF93C1 ;"></div>
+		   <div class="container">
+			  <div class="folow-item col-white wow zoomIn" data-wow-delay="0.4s">
+				
+						<div class="folow-info">
+							<b>Banner CTA Comprar</b>
+							<span>posts</span>
 						</div>
-					</div>
-   
-				</div>
-			</div>
-			</section> 
+						<div class="folow-info">
+							<b>Banner CTA Comprar</b>
+							<span>followers</span>
+						</div>
+						<div class="folow-info">
+							<b>Banner CTA Comprar</b>
+							<span>following</span>
+						</div>
+						
+			  </div>
+		   </div>
+	 </section> 
 		   <!-- Seccion Banner 2 finaliza-->
 		  
 		   <!-- Redes sociales (facebook) inicia -->
