@@ -185,30 +185,21 @@
 			 </div>
 		 </section>
 		 <!-- Seccion categorias finaliza-->
-	
-
+		
 		 <!-- Seccion Banner 1 inicia-->
-	<section class="section padd-sm">
-		<div class="bg fix" style="background-image:url(img/ban1.jpeg)"></div>
-		   <div class="container">
-			  <div class="folow-item letras_b wow zoomIn" data-wow-delay="0.4s">
-				
-						<div class="folow-info">
-							<b>Banner CTA Comprar</b>
-							<span>posts</span>
-						</div>
-						<div class="folow-info">
-							<b>Banner CTA Comprar</b>
-							<span>followers</span>
-						</div>
-						<div class="folow-info">
-							<b>Banner CTA Comprar</b>
-							<span>following</span>
-						</div>
-						
-			  </div>
-		   </div>
-	 </section>
+		
+		<div class="top-baner smal-size">
+	     <div class="block-bg top-image">
+		  <div class="bg-wrap">
+			<div class="bg" style="background-image:url(img/ban1.jpeg)"></div>
+			 <div class="white-mobile-layer"></div>
+			</div>
+		</div>
+		</div>
+		</div>
+		</div>
+       
+     <div class="content"> 
 		  <!-- Seccion Banner 1 finaliza-->
 
 		  <!-- Seccion como comprar inicia--> 
@@ -272,9 +263,8 @@
 		  <!-- Seccion como comprar finaliza--> 
 		
 		  <!-- Seccion Banner 2 inicia-->
-		<section class="section padd-sm">
-		<section class="banner1" style="background-color:#FF93C1 ;"></div>
-		   <div class="container">
+		<section class="section padd-sm banner1" style="background-color:#FF93C1 ;">
+			<div class="container">
 			  <div class="folow-item col-white wow zoomIn" data-wow-delay="0.4s">
 				
 						<div class="folow-info">
@@ -292,7 +282,7 @@
 						
 			  </div>
 		   </div>
-	 </section> 
+	 </section>  
 		   <!-- Seccion Banner 2 finaliza-->
 		  
 		   <!-- Redes sociales (facebook) inicia -->

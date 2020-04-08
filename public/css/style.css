@@ -939,3 +939,25 @@ article h4 {font-size: 24px; font-weight: 500; color: #272b2b; text-align: cente
 .letras_b{
 	color: #6BA9A9;
 }
+
+.bg.fix2 {
+	background-attachment: inherit;
+}
+
+.bg2{
+	position:absolute; 
+	left:0px; 
+	top:0px; 
+	width:100%; 
+	height:80%; 
+	overflow:hidden; 
+	background-position: 50% 50%; 
+	background-repeat: no-repeat; 
+	background-attachment: scroll; 
+	-webkit-background-size: cover;
+	-moz-background-size: cover; 
+	-o-background-size: cover;
+	-ms-background-size: cover; 
+	background-size: cover; 
+	backface-visibility: hidden;
+}
