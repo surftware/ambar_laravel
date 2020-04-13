@@ -107,7 +107,7 @@
         		   	  <div class="filters wow zoomIn" data-wow-delay="0.4s">
       		   	  	     <div class="drop-filter"><span>All </span><i class="icon-down-open-mini"></i></div>
        		   	  	       <ul class="filter-mob-list">
-							 <li class="active" data-filter="*">All</li>
+							 <li class="active" data-filter="*">Todos</li>
 							 <li data-filter=".Aretes">Aretes</li>
 							 <li data-filter=".Collares">Collares</li>
 							 <li data-filter=".Pulseras">Pulseras</li>
@@ -118,56 +118,56 @@
         		   	  </div>
         		   </div>
 				</div>
-				<div class="row">
+				<div class="row"> 
 					<div class="izotope-container">
 						<div class="grid-sizer"></div>
 						  <div class="item wh-25 Aretes photo wow zoomIn" data-wow-delay="0.2s">
 							<div class="item-drid-size">
-								<img src="img/10.jpg" alt="" class="resp-img">
+								<img src="img/Aretes/Arracadas.jpg" alt="" class="resp-img">
 								<a href="case_study.html" class="link-wrap item-hov"><span></span><span></span></a>
 							</div>
 						  </div>
 						  <div class="item wh-50 Complemtentos ux wow zoomIn" data-wow-delay="0.4s">
 							<div class="item-drid-size">
-								<img src="img/11.jpg" alt="" class="resp-img">
+								<img src="img/Complementos/1.JPG" alt="" class="resp-img">
 								<a href="case_study.html" class="link-wrap item-hov"><span></span><span></span></a>
 							</div>
 						  </div>
 						 
 						  <div class="item wh-25 Pulceras ux wow zoomIn" data-wow-delay="0.6s">
 							<div class="item-drid-size">
-								<img src="img/13.jpg" alt="" class="resp-img">
+								<img src="img/Pulseras/Pulseras.jpeg" alt="" class="resp-img">
 								<a href="case_study.html" class="link-wrap item-hov"><span></span><span></span></a>
 							</div>
 						  </div>
 						  <div class="item wh-25 Collares graphic wow zoomIn" data-wow-delay="0.8s">
 							<div class="item-drid-size">
-								<img src="img/7.jpg" alt="" class="resp-img">
+								<img src="img/Collares/1.png" alt="" class="resp-img">
 								<a href="case_study.html" class="link-wrap item-hov"><span></span><span></span></a>
 							</div>
 						  </div>
 						  <div class="load-item">
 							  <div class="item wh-25 Aretes photo wow zoomIn" data-wow-delay="0.2s">
 								<div class="item-drid-size">
-									<img src="img/10.jpg" alt="" class="resp-img">
+									<img src="img/Aretes/Corazón con ojo.png" alt="" class="resp-img">
 									<a href="case_study.html" class="link-wrap item-hov"><span></span><span></span></a>
 								</div>
 							  </div>
-							  <div class="item wh-50 Cabello ux wow zoomIn" data-wow-delay="0.4s">
+							  <div class="item wh-25 Cabello ux wow zoomIn" data-wow-delay="0.4s">
 								<div class="item-drid-size">
-									<img src="img/14.jpg" alt="" class="resp-img">
+									<img src="img/Cabello/Cucas.jpg" alt="" class="resp-img">
 									<a href="case_study.html" class="link-wrap item-hov"><span></span><span></span></a>
 								</div>
 							  </div>
 							  <div class="item wh-25 Pulseras ux wow zoomIn" data-wow-delay="0.6s">
 								<div class="item-drid-size">
-									<img src="img/13.jpg" alt="" class="resp-img">
+									<img src="img/Pulseras/Cactus.jpg" alt="" class="resp-img">
 									<a href="case_study.html" class="link-wrap item-hov"><span></span><span></span></a>
 								</div>
 							  </div>
 							  <div class="item wh-25 Collares graphic wow zoomIn" data-wow-delay="0.8s">
 								<div class="item-drid-size">
-									<img src="img/7.jpg" alt="" class="resp-img">
+									<img src="img/Collares/Infinito love.png" alt="" class="resp-img">
 									<a href="case_study.html" class="link-wrap item-hov"><span></span><span></span></a>
 								</div>
 							  </div>
