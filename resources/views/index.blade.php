@@ -190,7 +190,7 @@
 		
 		<div class="top-baner smal-size">
 	     <div class="block-bg top-image">
-		  <div class="bg-wrap">
+		  <div class="bg-wrap2">
 			<div class="bg2" style="background-image:url(img/ban1.jpeg)"></div>
 			 <div class="white-mobile-layer"></div>
 			</div>
