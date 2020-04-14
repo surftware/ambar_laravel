@@ -969,3 +969,10 @@ article h4 {font-size: 24px; font-weight: 500; color: #272b2b; text-align: cente
 	left: 0px;
 	top: 0px;
 }
+
+@media(max-width:442px){
+	.banmedia {
+		 padding:0px 0px 0px ;
+	}
+
+}

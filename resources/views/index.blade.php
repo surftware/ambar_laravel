@@ -267,15 +267,15 @@
 			<div class="container">
 			  <div class="folow-item col-white wow zoomIn" data-wow-delay="0.4s">
 				
-						<div class="folow-info">
+						<div class="folow-info banmedia">
 							<b>Banner CTA Comprar</b>
 							<span>posts</span>
 						</div>
-						<div class="folow-info">
+						<div class="folow-info banmedia">
 							<b>Banner CTA Comprar</b>
 							<span>followers</span>
 						</div>
-						<div class="folow-info">
+						<div class="folow-info banmedia">
 							<b>Banner CTA Comprar</b>
 							<span>following</span>
 						</div>
