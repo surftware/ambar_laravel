@@ -192,7 +192,8 @@
 	     <div class="block-bg top-image">
 		  <div class="bg-wrap2">
 			<div class="bg2" style="background-image:url(img/ban1.jpeg)"></div>
-			 <div class="white-mobile-layer"></div>
+			 <div class="white-mobile-layer"></div> 
+			 
 			</div>
 		</div>
 		</div>
@@ -263,7 +264,13 @@
 		  <!-- Seccion como comprar finaliza--> 
 		
 		  <!-- Seccion Banner 2 inicia-->
-		<section class="section padd-sm banner1" style="background-color:#FF93C1 ;">
+		 
+		<div class="top-baner smal-size">
+	     <div class="block-bg top-image">
+		  <div class="bg-wrap2">
+			<div class="bg2" style="background-color:#ef5b5b ;"></div>
+			 <div class="white-mobile-layer"></div>
+			 <section class="section padd-sm banner1" style="">
 			<div class="container">
 			  <div class="folow-item col-white wow zoomIn" data-wow-delay="0.4s">
 				
@@ -271,11 +278,11 @@
 							<b>Banner CTA Comprar</b>
 							<span>posts</span>
 						</div>
-						<div class="folow-info banmedia">
+						<div class="folow-info">
 							<b>Banner CTA Comprar</b>
 							<span>followers</span>
 						</div>
-						<div class="folow-info banmedia">
+						<div class="folow-info">
 							<b>Banner CTA Comprar</b>
 							<span>following</span>
 						</div>
@@ -283,6 +290,12 @@
 			  </div>
 		   </div>
 	 </section>  
+			 
+			</div>
+		</div>
+		</div>
+		</div>
+		</div>
 		   <!-- Seccion Banner 2 finaliza-->
 		  
 		   <!-- Redes sociales (facebook) inicia -->
