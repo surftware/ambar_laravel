@@ -380,12 +380,12 @@ body.fix {overflow: hidden;}
 .folow-icon .icon-gplus:after {content: '\e809';}
 .folow-icon a:hover i:after {left: 9px;}
 .folow-icon a:hover i:before {transform: translateX(30px); -webkit-transform: translateX(30px);}
-.footer-logo {display: block; margin: 0px auto 50px; width: 45px;}
+.footer-logo {display: block; margin: 0px auto 10px; width: 150px;}
 .footer-logo img {width: 100%; height: auto;}
 .footer-item {position: relative; width: 100%;}
 .footer-item .h6 {font-size: 12px; padding-bottom: 20px; text-transform: uppercase;}
 .footer-item ul li {font-size: 13px; line-height: 20px; color: #676a6a;}
-.footer-item ul li a {color: #676a6a;}
+.footer-item ul li a {color: #272b2b;}
 .footer-item ul li a:hover {color: #272b2b;}
 .footer-item.fr {text-align: right;}
 

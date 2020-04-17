@@ -4,17 +4,16 @@
              <img src="img/logo_ambar.png" alt="">
           </a> 
           <div class="folow-icon">
-              <a href="#"><i class="icon-facebook"></i></a>
-              <a href="#"><i class="icon-twitter"></i></a>
-              <a href="#"><i class="icon-pinterest"></i></a>
-              <a href="#"><i class="icon-dribbble"></i></a>
-           <a href="#"><i class="icon-rss"></i></a>
+              <a href="#"><i class="fab fa-facebook-f"></i></a>
+              <a href="#"><i class="fab fa-instagram"></i></a>
+              <a href="#"><i class="fab fa-whatsapp"></i></a> 
           </div> 
     </div>	
 </section>
 <footer>
     <div class="copyright">
         <img src="" class="resp-img" alt="">
-        <span>© Tu complemento perfecto. <a href="http://themeforest.net/user/invisiothemes/portfolio"><img src="img/author_site.png" alt=""></a></span>
+        <span>© Desarrolado por Suftware.<img src="img/author_site.png" alt=""> 
+<?php echo date("Y"); ?></span>
     </div>	
 </footer>
