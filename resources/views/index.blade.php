@@ -360,7 +360,7 @@
 
     <!-- Seccion Banner 2 inicia-->
 
-    <div class="top-baner smal-size">
+    <div class="top-baner smal-size banner2">
         <div class="block-bg top-image">
             <div class="bg-wrap2">
                 <div class="bg2" style="background-color:#ef5b5b ;"></div>
@@ -370,9 +370,9 @@
                         <div class="folow-item col-white wow zoomIn" data-wow-delay="0.4s">
 
                            
-                            <div class="folow-info">
-                                <h1>Banner CTA Comprar</h1>
-                                <span>followers</span>
+                            <div class="folow-info ">
+                                <p class="pbanner">Banner CTA Comprar</p>
+                                <p class="pbanner">followers</p>
                             </div>
                             
 
