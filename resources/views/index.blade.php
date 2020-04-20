@@ -324,9 +324,10 @@
                             <h4 class="h4">Elige tu accesorio:</h4>
                         </div>
                         <div class="simple-text">
-                            <p> Selecciona las piezas que deseas comprar y ponte en contacto vía Whatsapp o en nuestras redes sociales.</p>
+                            <p> Selecciona las piezas que deseas comprar y ponte en contacto vía Whatsapp o en nuestras
+                                redes sociales.</p>
                         </div>
-                        
+
                     </div>
                 </div>
                 <div class="col-md-4 col-sm-12 col-xs-12">
@@ -336,7 +337,8 @@
                             <h4 class="h4">Punto de entrega:</h4>
                         </div>
                         <div class="simple-text">
-                            <p> Selecciona un punto público para recibir tus accesorios. No tenemos tienda física, hacemos entregas en diferentes puntos de Pachuca y/o CD.MX.</p>
+                            <p> Selecciona un punto público para recibir tus accesorios. No tenemos tienda física,
+                                hacemos entregas en diferentes puntos de Pachuca y/o CD.MX.</p>
                         </div>
 
                     </div>
@@ -348,7 +350,8 @@
                             <h4 class="h4">Método de pago:</h4>
                         </div>
                         <div class="simple-text">
-                            <p>Recibimos transferencias, pagos vía Oxxo o en efectivo a contraentrega. Elige el que mejor te quede.</p>
+                            <p>Recibimos transferencias, pagos vía Oxxo o en efectivo a contraentrega. Elige el que
+                                mejor te quede.</p>
                         </div>
                         <a href="#" class="link-type-1">Contacto<i class="icon-right-open-mini"></i></a>
                     </div>
@@ -360,31 +363,22 @@
 
     <!-- Seccion Banner 2 inicia-->
 
-    <div class="top-baner smal-size banner2">
-        <div class="block-bg top-image">
-            <div class="bg-wrap2">
-                <div class="bg2" style="background-color:#ef5b5b ;"></div>
-                <div class="white-mobile-layer"></div>
-                <section class="section padd-sm banner1" style="">
-                    <div class="container">
-                        <div class="folow-item col-white wow zoomIn" data-wow-delay="0.4s">
+    <section class="section padd-sm banner2">
+        <div class="bg fix" style="background-color:#ef5b5b ;"></div>
+        <div class="container">
+            <div class="folow-item col-white wow zoomIn" data-wow-delay="0.4s">
+                
+                <h6 class="h7 title">banner2</h6>
+                <div class="simple-text">
+                    <p>banner2</p>
+                </div>
 
-                           
-                            <div class="folow-info ">
-                                <p class="pbanner">Banner CTA Comprar</p>
-                                <p class="pbanner">followers</p>
-                            </div>
-                            
 
-                        </div>
-                    </div>
-                </section>
-
+                <div class="clear"></div>
+               
             </div>
         </div>
-    </div>
-</div>
-</div>
+    </section>
 <!-- Seccion Banner 2 finaliza-->
 
 <!-- Redes sociales (facebook) inicia -->
@@ -398,7 +392,7 @@
             <div class="simple-text">
                 <p>Encuentra nuestros productos y conoce más de ÁMBAR en el día a día</p>
             </div>
-            
+
 
             <div class="clear"></div>
             <a href="#" class="link-type-2"><span>Seguir Facebook</span></a>
