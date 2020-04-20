@@ -981,7 +981,7 @@ article h4 {font-size: 24px; font-weight: 500; color: #272b2b; text-align: cente
 }
 
 .pbanner{
-	font-size: 35px;
-	line-height: 120px;
-	font-weight: 300;
+	font-size: 200%;
+	line-height: 500%;
+	
 }
